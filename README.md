@@ -1,3 +1,6 @@
+This Project is used to detect what season of the year it is at a particular geographical location
+Project created with- React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
